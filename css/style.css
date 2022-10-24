@@ -19,9 +19,8 @@ nav li {
 }
 
 nav {
-    position: flex;
-    top: 130px;
-    right: 0px;
+    position: absolute;
+    
 }
 
 
