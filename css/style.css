@@ -20,9 +20,8 @@ nav li {
 }
 
 nav {
-    position: absolute;
-    top: 160px;
-    left: 200px;
+    position: flex;
+    margin: auto;
     
 }
 
