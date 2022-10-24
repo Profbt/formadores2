@@ -22,6 +22,8 @@ nav li {
 nav {
     position: relative;
     margin: auto;
+    top: 160px;
+    
     
 }
 
