@@ -4,7 +4,7 @@
 }
 .caixa {
     display: inline;
-    position: flex;
+    position: relative;
     width: 940px;
     margin: 0 auto;
 }
