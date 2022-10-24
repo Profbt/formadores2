@@ -50,7 +50,7 @@ nav a:hover {
     text-align: center;
     color: #cccccc;
     background-image: url(../images/banner3.png);
-    background-size: 0vmax;
+    background-size: cover;
 }
 
 body {
