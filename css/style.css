@@ -18,6 +18,10 @@ nav li {
     padding-right: 0%;
 }
 
+nav {
+    position: absolute;
+}
+
 
 #banner {
     width: 100%;
