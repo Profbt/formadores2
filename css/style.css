@@ -31,12 +31,13 @@ nav a {
     font-weight: lighter;
     font-size: 35px;
     text-decoration: none;
-    color: #02524d;
+    color: #1a1919;
 }
 
 nav a:hover {
-    color: #c78c19;
-    text-decoration: underline;
+    color: #880000;
+    text-decoration: solid;
+    
 }
 
 #banner {
