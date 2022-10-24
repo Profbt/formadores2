@@ -13,7 +13,7 @@ nav li {
     display:inline;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 40px;
     margin: 0, 25px, 0, 15px;
     padding: 30px;
     padding-right: 0%;
@@ -25,6 +25,19 @@ nav {
     left: 200px;
 }
 
+nav a {
+    text-transform: uppercase;
+    color: #2e2c2c;
+    font-weight: lighter;
+    font-size: 35px;
+    text-decoration: none;
+    color: #02524d;
+}
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
 
 #banner {
     width: 100%;
