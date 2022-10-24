@@ -52,7 +52,7 @@ nav a:hover {
 
 .banner {
     display: inline-block;
-    position: relative;
+    position: flex;
 }
 body {
     background: #cccccc;
