@@ -19,7 +19,7 @@ nav li {
 }
 
 nav {
-    position: absolute;
+    position: flex;
     top: 130px;
     right: 0px;
 }
