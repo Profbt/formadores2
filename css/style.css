@@ -22,7 +22,7 @@ nav li {
 nav {
     position: absolute;
     top: 160px;
-    left: inherit;
+    left: initial;
     right: auto;
     
 }
