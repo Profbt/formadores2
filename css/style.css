@@ -20,9 +20,9 @@ nav li {
 
 nav {
     position: absolute;
-    top: 130px;
+    top: 110px;
     left: auto;
-    right: auto;
+    right: 100px;
 }
 
 
