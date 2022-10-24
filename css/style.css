@@ -50,11 +50,6 @@ nav a:hover {
     position: absolute;
 }
 
-.banner {
-    display: inline-block;
-    position: relative;
-    
-}
 body {
     background: #cccccc;
     margin: 0;
