@@ -20,7 +20,7 @@ nav li {
 }
 
 nav {
-    position: flex;
+    position: relative;
     margin: auto;
     
 }
