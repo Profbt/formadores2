@@ -41,7 +41,8 @@ body {
 
 #corpo {
     width: 90%;
-    align-content: center;
+    position: flex;
+    margin: auto;
 }
 
 h1 {
