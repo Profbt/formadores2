@@ -43,6 +43,7 @@ nav a:hover {
 
 #banner {
     width: 100%;
+    max-height: max-content;
 }
 
 #banner-html {
