@@ -45,12 +45,17 @@ nav a:hover {
     width: 100%;
 }
 
+#banner-html {
+    width: 100vh;
+    height: auto;
+}
+
 #texto-banner {
     font-size: 70px;
     text-align: center;
     color: #cccccc;
     background-image: url(../images/banner3.png);
-    background-size: cover;
+    
 }
 
 body {
