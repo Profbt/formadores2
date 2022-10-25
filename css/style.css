@@ -47,15 +47,15 @@ nav a:hover {
 }
 
 #banner-html {
-    max-height: max-content;
+    background-image: url(../images/banner3.png);
+    background-repeat: no-repeat;
 }
 
 #texto-banner {
     font-size: 70px;
     text-align: center;
     color: #cccccc;
-    background-image: url(../images/banner3.png);
-    background-repeat: no-repeat;
+    
     
     
 }
