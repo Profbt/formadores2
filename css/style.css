@@ -48,18 +48,13 @@ nav a:hover {
 
 #banner-html {
     background-image: url(../images/banner3.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+   
 }
 
 #texto-banner {
     font-size: 70px;
     text-align: center;
     color: #cccccc;
-
-
-
 }
 
 body {
