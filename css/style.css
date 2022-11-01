@@ -58,7 +58,8 @@ nav a:hover {
 #texto-banner {
     font-size: 70px;
     text-align: center;
-    bottom: auto;
+    position: absolute;
+    margin: 0 auto;
     color: #cccccc;
 }
 
