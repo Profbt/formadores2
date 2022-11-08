@@ -61,6 +61,21 @@ nav a:hover {
     color: #cccccc;
 }
 
+
+.conteiner {
+width: 100%;
+height: auto;
+background-image:url(../images/banner3.png) ;
+position: relative;
+}
+
+.intconteiner {
+
+}
+
+
+
+
 body {
     background: #cccccc;
     margin: 0;
