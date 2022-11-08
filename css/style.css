@@ -70,7 +70,7 @@ position: relative;
     line-height: 80%;
     background-color: #880000;
     position: absolute;
-    transform: translate(-50%, 50%);
+    transform: translate(50%, -50%);
 
 }
 
