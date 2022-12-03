@@ -46,23 +46,16 @@ nav a:hover {
 
 }
 
-
-#texto-banner3 {
-    font-size: 70px;
-    text-align: center;
-    color: #cccccc;
-}
-
-
 .conteiner {
 width: 100%;
 height: 500px;
-background-image: url(../images/banner3.png);
+background-image: url(../images/banner41.jpg);
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
 position: relative;
+
 }
 
 .intconteiner {
@@ -75,13 +68,15 @@ position: relative;
 }
 
 #titulo {
-    color: rgb(107, 0, 0);
-    font-size: 80px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(217, 215, 215);
+    font-size: 70px;
+    font-family: 'Fredoka One', cursive, sans-serif;
     letter-spacing:5px ;
     font-style: italic;
-    font-weight: lighter;
-    text-shadow: rgb(255, 255, 255) 2px 3px 2px;
+    font-weight: normal;
+    text-shadow: rgb(0, 0, 0) 2px 3px 2px;
+    
+   
     
     
 }
@@ -96,23 +91,31 @@ body {
 }
 
 #corpo {
-    width: 90%;
-    margin: auto;
+   margin: auto;
 }
 
 h1 {
     text-align: center;
     font-size: 70px;
     text-transform: uppercase;
+    
 }
+
 
 #p1 {
     text-align: center;
     font-size: 60px;
+    font-style: italic;
     margin-left: 100px;
     margin-right: 100px;
-    color: darkred;
+    color: rgb(0, 0, 0);
 }
+
+#prof {
+    font-size: 30px;
+    font-style: italic;
+}
+
 
 h2 {
     padding-top: 30px;
@@ -140,3 +143,53 @@ h3 {
     background: white;
     padding-bottom: 30px;
 }
+
+.carrossel {
+    width: 100%;
+}
+
+.conteiner2 {
+    width: 100%;
+    height: 500px;
+    background-image: url(../images/lousa.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    
+    }
+    
+    .intconteiner2 {
+        width: 100%;
+        bottom: 10%;
+        position: absolute;
+        text-align: center;
+    }
+
+    #titulo2 {
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+        font-family: 'Fredericka the Great', cursive, sans-serif;
+        letter-spacing:5px ;
+        font-style: italic;
+        font-weight: normal;
+        text-shadow: rgb(0, 0, 0) 2px 3px 2px;
+    }
+#relatorio {
+    font-family: 'Fredoka One', cursive, sans-serif;
+    letter-spacing:5px ;
+}
+    
+    #colegios {
+        font-size: 50px;
+        font-style: italic;
+    }
+
+    footer {
+        text-align: center;
+        background: url("../images/bg.jpg");
+        padding: 30px 0;
+        font-size: 20px;
+        color: #FFFFFF;
+    }

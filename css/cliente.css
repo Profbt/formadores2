@@ -1,0 +1,28 @@
+.client-slider{
+    height:200px;
+    width:950px;
+    margin:50px auto;
+    position:relative;
+    overflow:hidden;
+  }
+  .client-wrapper{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:calc(150px * 6); /*width x number of items*/
+    margin:0 auto;
+    animation: scroll 20s linear infinite;
+  }
+  .client-wrapper .img-item{
+    width:150px;
+    height: 150px;
+    margin: 0 20px;
+  }
+  @keyframes scroll{
+    0%{
+      transform: translateX(0);
+    }
+    100%{
+      transform: translateX(calc(-150px * 3));
+    }
+  }
